@@ -192,6 +192,7 @@ background: repeating-linear-gradient(
     text-align: center;
     cursor: pointer;
     padding-top: 10px;
+    padding-bottom: 25px;
     font-family: 'Acme', sans-serif;
   }
   .button-container {
@@ -211,8 +212,9 @@ background: repeating-linear-gradient(
     text-align: center;
     align-items: center;
     padding-top: 10px;
+    padding-bottom: 10px;;
     background-color: #AC66CC;
-    line-height: 20px;
+    line-height: 2px;
     text-align: center;
     font-family: 'Acme', sans-serif;
   }
